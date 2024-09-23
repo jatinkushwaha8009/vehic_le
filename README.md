@@ -36,7 +36,7 @@ To get a local copy up and running, follow these simple steps:
 
 1. **Clone the repository**:
     ```sh
-    git clone https://github.com/jeevan-2005/vehicle-movement-map.git
+    git clone https://github.com/jatinkushwaha8009/vehic_le.git
     ```
 2. **Navigate to the project directory**:
     ```sh
